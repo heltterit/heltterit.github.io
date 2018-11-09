@@ -1,4 +1,4 @@
 # heltterit.github.io
 Heltterit admin sivusto
 
-Tällä sivustolla ylläpidetään heltterit.com verkkosivuston sisältöä.
+Tähän julkaistaan heltterit.com verkkosivuston ylläpitoon tarkoitettu verkkosivusto.
